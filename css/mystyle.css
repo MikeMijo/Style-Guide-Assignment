@@ -1,0 +1,17 @@
+html * {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.myimages {
+    width: 225px;
+    margin: 10px;
+}
+
+h1 {
+    font-size: 35px;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.mySection * {
+    color: blueviolet
+}
