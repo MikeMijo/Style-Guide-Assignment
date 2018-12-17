@@ -12,6 +12,10 @@ h1 {
     font-family: 'Titillium Web', sans-serif;
 }
 
-.mySection * {
-    color: blueviolet
+.color-blue {
+    background-color: rgb(11, 61, 145);
+}
+
+.button {
+    font-family: 'Titillium Web', sans-serif;
 }
